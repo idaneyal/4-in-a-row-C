@@ -1,0 +1,4 @@
+﻿  Threads.c
+c:\users\idane\source\repos\ex4\ex4\threads.c(31): warning C4047: 'function': 'LPDWORD' differs in levels of indirection from 'LPDWORD *'
+c:\users\idane\source\repos\ex4\ex4\threads.c(31): warning C4024: 'CreateThread': different types for formal and actual parameter 6
+  ex4.vcxproj -> C:\Users\idane\source\repos\ex4\x64\Debug\ex4.exe

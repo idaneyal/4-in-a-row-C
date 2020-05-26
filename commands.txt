@@ -1,0 +1,4 @@
+ex4.exe "server" "C:\Users\idane\source\repos\ex4\Files\Server_LogFile.txt" "1111"
+ex4.exe "client" "C:\Users\idane\source\repos\ex4\Files\client1_logfile.txt" "1111" "human"
+ex4.exe client C:\Users\idane\source\repos\ex4\Files\client2_logfile.txt 1111 human
+ex4.exe client C:\Users\idane\source\repos\ex4\Files\client2_logfile.txt 1111 file C:\Users\idane\source\repos\ex4\Filesclient1_win_1.txt
